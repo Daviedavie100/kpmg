@@ -1,0 +1,383 @@
+first_name,last_name,gender,bikes_purchased,DOB,age,age_group,state,job_title,job_industry_category,wealth_segment,owns_car,tenure,tenure_period,property_valuation,valuation_category,predicted_value
+Hedwig,Jayme,Female,38,1952-08-21,71.0,above 70,NSW,Accountant IV,Property,Affluent Customer,No,11,'10-15,10,'above 9,99.0
+Davide,Senten,Male,22,1941-02-23,83.0,above 70,NSW,Accounting Assistant II,Manufacturing,Mass Customer,No,11,'10-15,9,'above 9,99.0
+Chico,Dye,Male,46,1994-02-04,30.0,30-40,NSW,Speech Pathologist,Manufacturing,High Net Worth,No,13,'10-15,9,'above 9,99.0
+Benedikta,Naptin,Female,59,1995-08-13,28.0,20-30,NSW,Operator,Retail,Mass Customer,Yes,15,'15-20,11,'above 9,99.0
+Nalani,Hallad,Female,15,1999-11-30,24.0,20-30,VIC,Environmental Specialist,Health,Affluent Customer,Yes,9,'5-10,9,'above 9,99.0
+Melosa,McOwan,Female,25,2001-04-17,23.0,20-30,NSW,Compensation Analyst,Financial Services,Mass Customer,No,12,'10-15,9,'above 9,99.0
+Isak,Bergstram,Male,14,2001-03-08,23.0,20-30,NSW,Pharmacist,Health,Affluent Customer,Yes,15,'15-20,9,'above 9,99.0
+Grannie,Cracker,Male,28,1949-03-06,75.0,above 70,QLD,VP Marketing,Retail,Mass Customer,Yes,20,'above 20,8,'6-9,99.0
+Gretel,Paschke,Female,10,1956-05-29,67.0,60-70,QLD,Editor,Financial Services,Mass Customer,Yes,17,'15-20,7,'6-9,99.0
+Tanner,Terlinden,Male,84,1995-12-09,28.0,20-30,VIC,Nuclear Power Engineer,Manufacturing,Mass Customer,No,14,'10-15,11,'above 9,99.0
+Colas,Gabbitas,Male,98,1946-09-09,77.0,above 70,NSW,Staff Scientist,Retail,High Net Worth,No,20,'above 20,9,'above 9,99.0
+Gabey,Kennicott,Female,55,1958-05-14,66.0,60-70,NSW,Developer I,Financial Services,Affluent Customer,No,17,'15-20,6,'6-9,99.0
+Lavena,Seekings,Female,87,1995-03-25,29.0,20-30,VIC,Payment Adjustment Coordinator,Retail,Mass Customer,No,16,'15-20,10,'above 9,99.0
+Renie,Fiveash,Female,92,1992-10-10,31.0,30-40,QLD,Occupational Therapist,Health,High Net Worth,No,16,'15-20,4,'3-6,99.0
+Rubia,Evetts,Female,59,1990-12-21,33.0,30-40,NSW,Pharmacist,Health,Mass Customer,No,16,'15-20,9,'above 9,99.0
+Carola,Philler,Female,73,1951-04-30,73.0,above 70,NSW,Dental Hygienist,Health,High Net Worth,No,15,'15-20,7,'6-9,99.0
+Rodney,Trethewey,Male,16,1997-03-17,27.0,20-30,VIC,Software Consultant,Financial Services,Affluent Customer,No,15,'15-20,8,'6-9,99.0
+Ross,Vidgen,Male,17,1947-12-28,76.0,above 70,QLD,VP Sales,Retail,Affluent Customer,No,12,'10-15,9,'above 9,99.0
+Shadow,Yakutin,Male,85,1967-02-03,57.0,50-60,QLD,Software Test Engineer IV,Health,Affluent Customer,Yes,6,'5-10,2,'bellow 3,99.0
+Shaw,MacEvilly,Male,10,2000-05-06,24.0,20-30,NSW,Software Test Engineer III,Health,Affluent Customer,No,16,'15-20,9,'above 9,99.0
+Burt,Vasechkin,Male,33,1950-04-15,74.0,above 70,VIC,Senior Sales Associate,Retail,Mass Customer,Yes,20,'above 20,2,'bellow 3,99.0
+Leticia,Danovich,Female,84,1941-10-02,82.0,above 70,QLD,Design Engineer,Entertainment,Mass Customer,Yes,15,'15-20,1,'bellow 3,99.0
+Harwell,Kleinstein,Male,87,1993-10-18,30.0,30-40,VIC,Sales Representative,Retail,Affluent Customer,No,15,'15-20,5,'3-6,99.0
+Debby,Balmadier,Female,53,1992-06-24,31.0,30-40,VIC,Administrative Assistant II,Financial Services,Affluent Customer,Yes,5,'5-10,8,'6-9,98.0
+Norina,Blakeway,Female,60,1980-02-11,44.0,40-50,VIC,Programmer Analyst II,Property,Mass Customer,Yes,3,'bellow 5,8,'6-9,98.0
+Gerta,Porrett,Female,46,1959-11-13,64.0,60-70,VIC,Registered Nurse,Health,High Net Worth,No,12,'10-15,2,'bellow 3,98.0
+Harlin,Mazin,Male,34,1974-03-25,50.0,50-60,NSW,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes,13,'10-15,7,'6-9,98.0
+Michele,Pammenter,Male,23,1983-06-26,40.0,40-50,VIC,Teacher,Health,High Net Worth,No,2,'bellow 5,8,'6-9,97.0
+Harvey,Dwelley,Male,70,1973-08-30,50.0,50-60,NSW,Help Desk Technician,Financial Services,Affluent Customer,No,18,'15-20,9,'above 9,97.0
+Shepperd,Leonards,Male,17,1981-04-14,43.0,40-50,NSW,Chemical Engineer,Manufacturing,Mass Customer,Yes,5,'5-10,9,'above 9,97.0
+Francklin,Cross,Male,51,1981-04-06,43.0,40-50,NSW,Teacher,Property,Mass Customer,Yes,3,'bellow 5,10,'above 9,97.0
+Symon,Mawne,Male,18,1943-02-08,81.0,above 70,VIC,Human Resources Assistant IV,Property,Mass Customer,Yes,15,'15-20,4,'3-6,97.0
+Karlik,Penchen,Male,60,1994-10-31,29.0,20-30,QLD,Nurse Practicioner,Retail,Mass Customer,No,11,'10-15,6,'6-9,97.0
+Killie,Densie,Male,87,1997-03-28,27.0,20-30,NSW,Environmental Tech,IT,Mass Customer,Yes,11,'10-15,10,'above 9,97.0
+Maximilien,Bourget,Male,12,1969-04-29,55.0,50-60,VIC,Geologist I,Financial Services,Mass Customer,Yes,6,'5-10,7,'6-9,97.0
+Elvira,Kurten,Female,65,1973-03-18,51.0,50-60,NSW,Assistant Professor,Financial Services,High Net Worth,No,12,'10-15,3,'3-6,96.0
+Erasmus,Olenchenko,Male,56,1965-02-03,59.0,50-60,NSW,Software Test Engineer IV,Property,Mass Customer,Yes,5,'5-10,7,'6-9,96.0
+Timi,Duny,Female,70,1953-03-12,71.0,above 70,NSW,Office Assistant II,Telecommunications,High Net Worth,No,6,'5-10,12,'above 9,96.0
+Abner,Fraschetti,Male,33,1986-01-23,38.0,30-40,VIC,Staff Scientist,Argiculture,Affluent Customer,No,13,'10-15,7,'6-9,96.0
+Torry,de la Valette Parisot,Male,95,1967-03-14,57.0,50-60,VIC,VP Marketing,Telecommunications,Mass Customer,Yes,18,'15-20,9,'above 9,96.0
+Cecily,Faircley,Female,42,1947-06-12,76.0,above 70,QLD,Accountant IV,IT,Affluent Customer,Yes,19,'15-20,1,'bellow 3,96.0
+Rebeca,Aggas,Female,66,1953-02-27,71.0,above 70,VIC,Social Worker,Health,Affluent Customer,No,21,'above 20,1,'bellow 3,96.0
+Leona,Shorrock,Female,83,1951-08-23,72.0,above 70,QLD,Senior Quality Engineer,Financial Services,Affluent Customer,Yes,22,'above 20,1,'bellow 3,96.0
+Taylor,Steuhlmeyer,Male,62,1999-03-22,25.0,20-30,QLD,Paralegal,Financial Services,Affluent Customer,Yes,5,'5-10,8,'6-9,96.0
+Caron,Kezar,Female,11,1953-08-08,70.0,above 70,NSW,Social Worker,Health,Mass Customer,No,5,'5-10,1,'bellow 3,96.0
+Giselbert,Pickring,Male,94,1959-07-28,64.0,60-70,NSW,Tax Accountant,Manufacturing,Affluent Customer,Yes,20,'above 20,8,'6-9,96.0
+Arleen,Casbolt,Female,48,1975-05-10,49.0,40-50,QLD,Senior Quality Engineer,Financial Services,Affluent Customer,Yes,13,'10-15,1,'bellow 3,96.0
+Selle,Casper,Female,98,1978-03-27,46.0,40-50,NSW,Social Worker,Health,Mass Customer,Yes,10,'10-15,1,'bellow 3,96.0
+Griffith,Escot,Male,50,1946-10-23,77.0,above 70,QLD,Accountant III,IT,Mass Customer,Yes,16,'15-20,3,'3-6,96.0
+Marcellina,Baynton,Female,60,1947-03-11,77.0,above 70,VIC,Software Engineer III,Financial Services,Mass Customer,No,16,'15-20,10,'above 9,95.0
+Deirdre,Burgoine,Female,14,1955-01-08,69.0,60-70,VIC,Programmer III,Health,High Net Worth,No,7,'5-10,1,'bellow 3,95.0
+Xenia,Maleck,Female,41,1960-02-14,64.0,60-70,VIC,VP Product Management,Telecommunications,Mass Customer,No,12,'10-15,7,'6-9,95.0
+Manya,Abramovici,Female,42,1955-07-17,68.0,60-70,QLD,Quality Engineer,Financial Services,High Net Worth,Yes,13,'10-15,8,'6-9,95.0
+Alexa,Dillet,Female,65,1944-10-05,79.0,above 70,NSW,Product Engineer,Entertainment,Affluent Customer,No,17,'15-20,7,'6-9,95.0
+Austine,Speedy,Female,38,1940-05-23,83.0,above 70,NSW,Software Engineer II,Argiculture,High Net Worth,Yes,14,'10-15,8,'6-9,95.0
+Cordi,Thornton,Female,47,1973-01-04,51.0,50-60,NSW,Structural Engineer,Telecommunications,Mass Customer,No,11,'10-15,10,'above 9,95.0
+Mavra,Finan,Female,30,1967-08-23,56.0,50-60,NSW,Nurse,Property,Affluent Customer,Yes,4,'bellow 5,9,'above 9,94.0
+Charlena,Berney,Female,55,1966-01-02,58.0,50-60,QLD,Geological Engineer,Manufacturing,High Net Worth,Yes,12,'10-15,4,'3-6,94.0
+Bunny,Leebetter,Female,83,1966-04-30,58.0,50-60,QLD,Quality Engineer,Manufacturing,High Net Worth,Yes,8,'5-10,4,'3-6,94.0
+Gilli,Christophers,Female,70,1948-03-02,76.0,above 70,QLD,Database Administrator IV,Property,Affluent Customer,Yes,17,'15-20,9,'above 9,94.0
+Kellina,Haygreen,Female,38,1966-01-19,58.0,50-60,NSW,Librarian,Entertainment,Affluent Customer,No,18,'15-20,10,'above 9,94.0
+Melinda,Hadlee,Female,34,1965-09-21,58.0,50-60,NSW,Financial Analyst,Financial Services,Affluent Customer,No,19,'15-20,9,'above 9,94.0
+Andy,Deeming,Male,79,1979-01-09,45.0,40-50,QLD,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,Yes,7,'5-10,8,'6-9,94.0
+Becka,Hacon,Female,81,1965-07-03,58.0,50-60,VIC,General Manager,Financial Services,Affluent Customer,No,17,'15-20,9,'above 9,94.0
+Raleigh,Pont,Male,48,1964-11-02,59.0,50-60,VIC,Associate Professor,Entertainment,Mass Customer,No,14,'10-15,7,'6-9,94.0
+Hayes,Daveren,Male,32,1953-03-27,71.0,above 70,QLD,VP Quality Control,Manufacturing,Affluent Customer,Yes,11,'10-15,2,'bellow 3,94.0
+Muffin,Grigolon,Male,7,1979-10-31,44.0,40-50,NSW,Senior Editor,Telecommunications,Mass Customer,No,12,'10-15,10,'above 9,94.0
+Ardis,Taree,Female,97,1960-04-12,64.0,60-70,QLD,Chemical Engineer,Manufacturing,Affluent Customer,Yes,5,'5-10,9,'above 9,94.0
+Matias,Melloi,Male,61,1977-02-03,47.0,40-50,NSW,Legal Assistant,Retail,Affluent Customer,No,11,'10-15,10,'above 9,93.0
+Lizbeth,Garvan,Female,36,1996-09-06,27.0,20-30,NSW,Structural Analysis Engineer,Health,Mass Customer,No,4,'bellow 5,9,'above 9,93.0
+Luci,Dyter,Female,12,1952-05-30,71.0,above 70,VIC,Software Test Engineer I,Manufacturing,High Net Worth,No,20,'above 20,7,'6-9,93.0
+Eugenie,Brinson,Female,79,1963-08-10,60.0,60-70,VIC,Assistant Media Planner,Entertainment,Mass Customer,Yes,17,'15-20,6,'6-9,93.0
+Dennis,Varnham,Male,57,1953-05-17,71.0,above 70,VIC,Assistant Media Planner,Entertainment,Affluent Customer,No,17,'15-20,3,'3-6,93.0
+Vitia,Axtens,Female,62,1945-08-08,78.0,above 70,NSW,Financial Advisor,Financial Services,Mass Customer,Yes,15,'15-20,10,'above 9,93.0
+Nilson,Wiggam,Male,48,1996-02-15,28.0,20-30,VIC,Paralegal,Financial Services,Mass Customer,No,9,'5-10,6,'6-9,92.0
+Therese,Brotherhood,Female,30,1981-07-28,42.0,40-50,NSW,Food Chemist,Health,Mass Customer,No,10,'10-15,10,'above 9,92.0
+Keenan,Moriarty,Male,67,1994-12-23,29.0,20-30,QLD,Actuary,Financial Services,Mass Customer,Yes,2,'bellow 5,8,'6-9,92.0
+Felice,Dechelette,Male,75,1998-02-05,26.0,20-30,QLD,Librarian,Entertainment,High Net Worth,No,3,'bellow 5,4,'3-6,92.0
+Frederich,Glantz,Male,37,1997-08-27,26.0,20-30,NSW,Nuclear Power Engineer,Manufacturing,High Net Worth,Yes,10,'10-15,8,'6-9,91.0
+Fayre,Brannigan,Female,32,1992-10-13,31.0,30-40,NSW,Geological Engineer,Manufacturing,Mass Customer,Yes,9,'5-10,10,'above 9,91.0
+Keelby,Sudlow,Male,96,1988-09-01,35.0,30-40,VIC,Marketing Assistant,Manufacturing,High Net Worth,No,12,'10-15,8,'6-9,90.0
+Leese,Huckleby,Female,67,1977-09-10,46.0,40-50,VIC,Help Desk Operator,Manufacturing,High Net Worth,Yes,16,'15-20,7,'6-9,90.0
+Salomon,Perkins,Male,76,1998-01-12,26.0,20-30,NSW,Engineer IV,Financial Services,Affluent Customer,Yes,1,'bellow 5,10,'above 9,90.0
+Loleta,Aberdalgy,Female,45,1981-02-15,43.0,40-50,NSW,Occupational Therapist,Health,Mass Customer,No,11,'10-15,6,'6-9,90.0
+Myrtie,Ostrich,Female,70,1996-06-18,27.0,20-30,NSW,VP Quality Control,Property,Affluent Customer,Yes,9,'5-10,7,'6-9,90.0
+Kaylyn,Jakaway,Female,45,1980-07-30,43.0,40-50,NSW,Registered Nurse,Health,Affluent Customer,No,10,'10-15,8,'6-9,90.0
+Lynnell,Shoesmith,Female,44,1981-01-29,43.0,40-50,NSW,Occupational Therapist,Health,High Net Worth,Yes,7,'5-10,8,'6-9,90.0
+Daryl,Pauncefort,Female,12,1979-06-18,44.0,40-50,NSW,Community Outreach Specialist,Financial Services,Mass Customer,Yes,12,'10-15,3,'3-6,90.0
+Leisha,McConway,Female,3,1975-10-31,48.0,40-50,VIC,Payment Adjustment Coordinator,Financial Services,Mass Customer,Yes,13,'10-15,8,'6-9,90.0
+Maury,Galego,Male,65,1992-07-27,31.0,30-40,VIC,Social Worker,Health,High Net Worth,Yes,3,'bellow 5,10,'above 9,90.0
+Perry,Whitehurst,Male,79,1980-05-29,43.0,40-50,VIC,Structural Engineer,Manufacturing,High Net Worth,Yes,8,'5-10,7,'6-9,89.0
+Nico,Chadwick,Male,97,1953-05-24,70.0,above 70,VIC,Research Assistant IV,Financial Services,Affluent Customer,No,13,'10-15,8,'6-9,89.0
+Packston,Wackett,Male,10,1950-04-26,74.0,above 70,VIC,Quality Engineer,Financial Services,Mass Customer,No,19,'15-20,9,'above 9,89.0
+Sonia,Dunstall,Female,0,1975-07-30,48.0,40-50,NSW,Accountant III,Financial Services,Mass Customer,No,10,'10-15,9,'above 9,89.0
+Afton,Andrassy,Female,78,1998-10-14,25.0,20-30,VIC,Web Designer II,Retail,Mass Customer,No,7,'5-10,8,'6-9,89.0
+Maribeth,Stivani,Female,46,1954-11-13,69.0,60-70,NSW,Associate Professor,Financial Services,Mass Customer,No,7,'5-10,8,'6-9,89.0
+Carroll,Schlagman,Female,61,1951-08-25,72.0,above 70,NSW,Clinical Specialist,Health,Affluent Customer,No,13,'10-15,9,'above 9,89.0
+Elvira,Darthe,Female,10,1975-04-08,49.0,40-50,NSW,Accounting Assistant I,Financial Services,Affluent Customer,No,16,'15-20,9,'above 9,89.0
+Dorian,Emery,Female,94,1998-08-24,25.0,20-30,NSW,Professor,Manufacturing,Mass Customer,Yes,9,'5-10,8,'6-9,89.0
+Roldan,Raybould,Male,27,1975-11-18,48.0,40-50,VIC,Actuary,Financial Services,Mass Customer,No,11,'10-15,8,'6-9,89.0
+Otes,Elegood,Male,67,1940-11-25,83.0,above 70,NSW,Programmer III,Financial Services,High Net Worth,No,21,'above 20,11,'above 9,89.0
+Dylan,Stranio,Male,47,1953-04-02,71.0,above 70,NSW,Project Manager,Manufacturing,High Net Worth,Yes,9,'5-10,8,'6-9,89.0
+Arty,Strudwick,Male,85,1964-01-31,60.0,60-70,NSW,Data Coordiator,Health,Mass Customer,Yes,8,'5-10,10,'above 9,89.0
+Tobiah,Heinsius,Male,66,2000-01-25,24.0,20-30,NSW,Chief Design Engineer,Health,High Net Worth,No,9,'5-10,8,'6-9,89.0
+Winnifred,Beswetherick,Female,83,1976-06-08,47.0,40-50,VIC,Actuary,Financial Services,Mass Customer,No,14,'10-15,10,'above 9,89.0
+Celia,Bryden,Female,12,1943-04-06,81.0,above 70,NSW,Chemical Engineer,Manufacturing,High Net Worth,No,21,'above 20,9,'above 9,89.0
+Carita,Sand,Female,25,1977-03-20,47.0,40-50,NSW,Quality Engineer,Retail,Mass Customer,No,16,'15-20,11,'above 9,88.0
+Tannie,Petrakov,Male,84,1951-11-27,72.0,above 70,QLD,Data Coordiator,IT,Affluent Customer,No,10,'10-15,6,'6-9,88.0
+Karney,Burstow,Male,51,1972-07-02,51.0,50-60,NSW,Design Engineer,Property,Mass Customer,Yes,6,'5-10,12,'above 9,88.0
+Tillie,Bisseker,Female,74,1960-08-10,63.0,60-70,NSW,Civil Engineer,Manufacturing,High Net Worth,No,14,'10-15,12,'above 9,87.0
+Gipsy,Ewestace,Female,29,1956-08-30,67.0,60-70,NSW,Business Systems Development Analyst,Retail,High Net Worth,Yes,5,'5-10,12,'above 9,87.0
+Sumner,Carrivick,Male,53,1995-04-09,29.0,20-30,NSW,Desktop Support Technician,Manufacturing,Mass Customer,No,15,'15-20,12,'above 9,87.0
+Clotilda,Southers,Female,62,1999-11-08,24.0,20-30,NSW,Computer Systems Analyst II,Financial Services,Mass Customer,Yes,15,'15-20,4,'3-6,87.0
+Denny,Spleving,Female,84,1973-05-13,51.0,50-60,NSW,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes,5,'5-10,8,'6-9,87.0
+Oswald,MacCarlich,Male,81,1991-11-24,32.0,30-40,QLD,Assistant Media Planner,Entertainment,Mass Customer,No,14,'10-15,1,'bellow 3,87.0
+Mandie,MacAdie,Female,39,1974-12-25,49.0,40-50,NSW,Chief Design Engineer,Telecommunications,High Net Worth,No,13,'10-15,11,'above 9,87.0
+Calhoun,Mussington,Male,98,1992-10-13,31.0,30-40,NSW,Dental Hygienist,Health,Mass Customer,No,12,'10-15,9,'above 9,87.0
+Donaugh,Benedict,Male,3,1991-12-01,32.0,30-40,NSW,Systems Administrator III,Property,Mass Customer,No,12,'10-15,9,'above 9,87.0
+Guenna,Filisov,Female,52,1969-02-09,55.0,50-60,NSW,Chemical Engineer,Manufacturing,High Net Worth,No,13,'10-15,9,'above 9,87.0
+Sonni,Milligan,Female,73,1988-03-05,36.0,30-40,VIC,Budget/Accounting Analyst III,Retail,Mass Customer,Yes,14,'10-15,9,'above 9,87.0
+Jammal,Devenny,Male,57,1999-05-14,25.0,20-30,VIC,Marketing Manager,Retail,High Net Worth,No,12,'10-15,9,'above 9,87.0
+Roddy,Rubinshtein,Male,37,1987-10-08,36.0,30-40,QLD,Nurse Practicioner,Retail,Mass Customer,Yes,4,'bellow 5,7,'6-9,86.0
+Verla,Dumingos,Female,26,1971-09-18,52.0,50-60,VIC,Design Engineer,Telecommunications,Mass Customer,Yes,10,'10-15,8,'6-9,86.0
+Tyne,Coate,Female,82,1965-07-15,58.0,50-60,NSW,Developer II,Manufacturing,Mass Customer,No,17,'15-20,8,'6-9,86.0
+Hilario,McCulloch,Male,61,1986-01-10,38.0,30-40,VIC,Physical Therapy Assistant,Retail,Mass Customer,No,8,'5-10,8,'6-9,86.0
+Dyann,Olechnowicz,Female,17,1939-07-17,84.0,above 70,VIC,Nuclear Power Engineer,Manufacturing,Mass Customer,No,16,'15-20,10,'above 9,86.0
+Karly,Willavize,Female,2,1954-08-12,69.0,60-70,NSW,Internal Auditor,Manufacturing,High Net Worth,No,12,'10-15,10,'above 9,86.0
+Erhard,O'Moylane,Male,33,1978-05-27,45.0,40-50,VIC,Media Manager I,Retail,Affluent Customer,Yes,9,'5-10,2,'bellow 3,85.0
+Ellsworth,Andrieux,Male,49,1971-04-26,53.0,50-60,QLD,Senior Cost Accountant,Financial Services,Affluent Customer,Yes,10,'10-15,7,'6-9,85.0
+Sunny,Christescu,Female,90,1975-03-12,49.0,40-50,NSW,Cost Accountant,Financial Services,Mass Customer,No,11,'10-15,10,'above 9,84.0
+Terrel,Keynd,Male,30,1961-04-20,63.0,60-70,QLD,Junior Executive,Manufacturing,Mass Customer,No,9,'5-10,7,'6-9,83.0
+Sylas,Duffill,Male,56,1955-10-02,68.0,60-70,NSW,Staff Accountant IV,Property,Mass Customer,Yes,14,'10-15,9,'above 9,83.0
+Rickert,Brasted,Male,47,1959-09-18,64.0,60-70,NSW,Staff Scientist,Health,Mass Customer,No,10,'10-15,9,'above 9,83.0
+Robenia,Monks,Female,94,1959-05-08,65.0,60-70,QLD,Nurse Practicioner,Manufacturing,Mass Customer,No,5,'5-10,9,'above 9,83.0
+Audry,Fann,Female,3,1957-10-17,66.0,60-70,VIC,Pharmacist,Health,Mass Customer,Yes,15,'15-20,6,'6-9,83.0
+Vyky,Pegg,Female,64,1943-03-15,81.0,above 70,NSW,Quality Control Specialist,Manufacturing,Mass Customer,Yes,11,'10-15,7,'6-9,83.0
+Jermaine,Bagshawe,Female,60,1954-05-14,70.0,above 70,QLD,Help Desk Operator,Property,Mass Customer,Yes,9,'5-10,6,'6-9,82.0
+Loria,Tappington,Female,72,1955-09-06,68.0,60-70,VIC,Research Assistant IV,Property,Mass Customer,No,5,'5-10,8,'6-9,82.0
+Kenneth,Elleyne,Male,13,1957-09-03,66.0,60-70,VIC,Technical Writer,Financial Services,Mass Customer,No,13,'10-15,11,'above 9,82.0
+Rollo,Louedey,Male,64,1946-07-09,77.0,above 70,NSW,Information Systems Manager,Telecommunications,Affluent Customer,Yes,17,'15-20,9,'above 9,82.0
+Sofie,Worsfold,Female,87,1954-10-06,69.0,60-70,QLD,Environmental Tech,Retail,Mass Customer,Yes,9,'5-10,6,'6-9,82.0
+Noel,Sturch,Female,26,1951-10-28,72.0,above 70,VIC,Environmental Specialist,Health,Mass Customer,No,10,'10-15,1,'bellow 3,82.0
+Ashlen,Willbond,Female,64,1984-05-15,40.0,40-50,VIC,Software Consultant,Health,High Net Worth,No,16,'15-20,8,'6-9,82.0
+Giorgi,O'Shirine,Male,68,1981-06-20,42.0,40-50,VIC,Payment Adjustment Coordinator,Retail,Mass Customer,Yes,15,'15-20,8,'6-9,82.0
+Shepperd,Ricards,Male,28,1967-09-27,56.0,50-60,NSW,Social Worker,Health,Mass Customer,Yes,16,'15-20,4,'3-6,82.0
+Dyane,Burwell,Female,19,1952-06-27,71.0,above 70,NSW,Engineer II,Retail,Mass Customer,Yes,7,'5-10,2,'bellow 3,82.0
+Lucretia,D'Agostini,Female,41,1978-12-14,45.0,40-50,VIC,Database Administrator III,Manufacturing,High Net Worth,No,15,'15-20,7,'6-9,82.0
+Catha,Davitt,Female,79,1958-04-16,66.0,60-70,NSW,Environmental Specialist,Property,High Net Worth,Yes,6,'5-10,7,'6-9,82.0
+Whit,Emloch,Male,30,1963-08-20,60.0,60-70,NSW,Food Chemist,Health,Mass Customer,Yes,6,'5-10,9,'above 9,82.0
+Datha,Fishburn,Female,15,1990-07-02,33.0,30-40,VIC,Office Assistant IV,Retail,Mass Customer,No,3,'bellow 5,12,'above 9,82.0
+Bailey,Bereford,Male,44,1950-09-30,73.0,above 70,NSW,Senior Sales Associate,Argiculture,Affluent Customer,Yes,11,'10-15,6,'6-9,81.0
+Danny,Bodle,Male,50,1943-09-24,80.0,above 70,NSW,Statistician I,Manufacturing,Mass Customer,Yes,18,'15-20,9,'above 9,81.0
+Tabbie,Curner,Male,12,1997-03-13,27.0,20-30,VIC,Chief Design Engineer,Retail,Mass Customer,No,6,'5-10,6,'6-9,81.0
+Kaine,Smallcombe,Male,59,1942-02-06,82.0,above 70,NSW,Senior Financial Analyst,Financial Services,High Net Worth,No,11,'10-15,10,'above 9,81.0
+Shannen,Lewin,Female,21,1991-06-07,32.0,30-40,QLD,Analog Circuit Design manager,Argiculture,High Net Worth,No,6,'5-10,6,'6-9,81.0
+Taber,Szymon,Male,70,1947-04-22,77.0,above 70,QLD,Senior Sales Associate,Argiculture,Affluent Customer,No,13,'10-15,8,'6-9,81.0
+Gina,Mallon,Female,56,1994-02-11,30.0,30-40,QLD,Dental Hygienist,Health,Mass Customer,No,12,'10-15,2,'bellow 3,81.0
+Cheston,Hritzko,Male,70,1945-11-08,78.0,above 70,NSW,Software Engineer III,Manufacturing,Mass Customer,Yes,19,'15-20,9,'above 9,81.0
+Reinald,Bembrigg,Male,54,1953-08-21,70.0,above 70,NSW,Senior Financial Analyst,Financial Services,Affluent Customer,No,10,'10-15,7,'6-9,81.0
+Eustacia,Dornan,Female,68,1985-09-02,38.0,30-40,VIC,Account Representative IV,Property,Mass Customer,No,5,'5-10,9,'above 9,81.0
+Jordan,Clampe,Male,37,1939-12-09,84.0,above 70,QLD,Staff Scientist,Financial Services,Mass Customer,Yes,11,'10-15,5,'3-6,81.0
+Omero,McDonand,Male,51,1952-04-01,72.0,above 70,NSW,Software Consultant,Manufacturing,Mass Customer,No,16,'15-20,9,'above 9,81.0
+Adria,Van den Velde,Female,39,1978-07-10,45.0,40-50,NSW,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes,9,'5-10,7,'6-9,80.0
+Karrah,Howell,Female,63,1956-11-07,67.0,60-70,NSW,Civil Engineer,Manufacturing,Mass Customer,No,17,'15-20,9,'above 9,80.0
+Ricki,Padefield,Male,43,1948-08-03,75.0,above 70,QLD,Automation Specialist III,Manufacturing,Affluent Customer,Yes,13,'10-15,9,'above 9,80.0
+Anson,Dearnaly,Male,68,1997-06-29,26.0,20-30,NSW,Data Coordiator,Health,Affluent Customer,Yes,11,'10-15,11,'above 9,80.0
+Diego,Van den Broek,Male,17,1964-09-28,59.0,50-60,QLD,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes,13,'10-15,7,'6-9,80.0
+Daisi,Tinwell,Female,84,1971-12-24,52.0,50-60,NSW,Business Systems Development Analyst,Financial Services,Mass Customer,No,11,'10-15,8,'6-9,80.0
+Barthel,Docket,Male,72,1985-08-02,38.0,30-40,QLD,Accounting Assistant IV,IT,Mass Customer,Yes,17,'15-20,5,'3-6,80.0
+Rosmunda,Duxbarry,Female,69,1996-07-20,27.0,20-30,QLD,Executive Secretary,Property,Affluent Customer,Yes,5,'5-10,11,'above 9,80.0
+Dolorita,Strutton,Female,7,1991-05-21,32.0,30-40,VIC,General Manager,Manufacturing,Affluent Customer,No,17,'15-20,8,'6-9,79.0
+Annabelle,Hanwell,Female,11,1951-11-28,72.0,above 70,VIC,Professor,Manufacturing,High Net Worth,Yes,15,'15-20,12,'above 9,79.0
+Elvin,Trayhorn,Male,46,1993-06-02,30.0,30-40,NSW,VP Accounting,Financial Services,High Net Worth,No,10,'10-15,10,'above 9,79.0
+Adriane,Richardson,Female,81,1976-03-10,48.0,40-50,VIC,Data Coordiator,Manufacturing,High Net Worth,No,9,'5-10,8,'6-9,78.0
+Inglebert,Aspinal,Male,4,1973-10-13,50.0,50-60,NSW,Financial Analyst,Financial Services,Mass Customer,No,11,'10-15,8,'6-9,78.0
+Ashby,Bispham,Male,71,1981-10-29,42.0,40-50,NSW,Software Consultant,Retail,Affluent Customer,No,4,'bellow 5,8,'6-9,78.0
+Laurie,Odlin,Female,75,1983-03-08,41.0,40-50,VIC,Social Worker,Health,High Net Worth,No,10,'10-15,10,'above 9,78.0
+Dickie,Cubbini,Male,30,1952-12-17,71.0,above 70,QLD,Financial Advisor,Financial Services,Mass Customer,Yes,19,'15-20,2,'bellow 3,78.0
+Wendye,Kleinplatz,Female,48,1996-05-28,27.0,20-30,QLD,Executive Secretary,Manufacturing,Affluent Customer,No,14,'10-15,3,'3-6,78.0
+Katie,Warhurst,Female,0,1991-12-02,32.0,30-40,VIC,Help Desk Operator,Retail,High Net Worth,Yes,14,'10-15,5,'3-6,78.0
+Art,Shardlow,Male,57,1963-10-15,60.0,60-70,QLD,Data Coordiator,Argiculture,Mass Customer,Yes,15,'15-20,2,'bellow 3,78.0
+Ebony,Conrad,Female,8,1999-10-24,24.0,20-30,VIC,Environmental Tech,Financial Services,Mass Customer,Yes,16,'15-20,7,'6-9,78.0
+Sinclair,Wark,Male,68,1974-02-21,50.0,50-60,NSW,Financial Analyst,Financial Services,Mass Customer,Yes,11,'10-15,9,'above 9,78.0
+Lolly,Prewer,Female,44,1997-10-23,26.0,20-30,NSW,Geologist I,Health,Mass Customer,No,15,'15-20,7,'6-9,78.0
+Stephen,Tittershill,Male,73,1991-12-21,32.0,30-40,VIC,Nurse Practicioner,Financial Services,High Net Worth,No,6,'5-10,11,'above 9,78.0
+Moina,Rosenbaum,Female,50,2001-08-04,22.0,20-30,VIC,Graphic Designer,IT,Mass Customer,No,14,'10-15,10,'above 9,78.0
+Irving,Babcock,Male,60,1986-01-17,38.0,30-40,NSW,Dental Hygienist,Health,High Net Worth,Yes,15,'15-20,1,'bellow 3,77.0
+Mel,Rochford,Female,11,1989-07-23,34.0,30-40,VIC,Assistant Professor,Retail,Mass Customer,Yes,4,'bellow 5,9,'above 9,77.0
+Clarine,Piecha,Female,99,1964-12-07,59.0,50-60,QLD,Dental Hygienist,Health,High Net Worth,No,14,'10-15,10,'above 9,76.0
+Justinn,Haruard,Female,48,1958-08-28,65.0,60-70,NSW,Health Coach IV,Health,High Net Worth,No,11,'10-15,12,'above 9,76.0
+Druci,Brandli,Female,39,1951-04-29,73.0,above 70,QLD,Assistant Media Planner,Entertainment,High Net Worth,Yes,22,'above 20,7,'6-9,76.0
+Bertine,Smalles,Female,85,1983-12-10,40.0,40-50,VIC,VP Quality Control,Financial Services,Mass Customer,Yes,9,'5-10,8,'6-9,76.0
+Nolly,Ivanchikov,Male,13,1994-02-10,30.0,30-40,NSW,Help Desk Operator,Manufacturing,High Net Worth,Yes,11,'10-15,11,'above 9,76.0
+Wolf,Craft,Male,93,1995-07-19,28.0,20-30,NSW,Database Administrator III,Retail,Affluent Customer,Yes,5,'5-10,9,'above 9,75.0
+Reiko,Degenhardt,Female,83,1976-01-16,48.0,40-50,QLD,Financial Analyst,Financial Services,High Net Worth,Yes,5,'5-10,6,'6-9,75.0
+Lucius,Hatchell,Male,37,1951-03-19,73.0,above 70,VIC,Media Manager II,Retail,Mass Customer,Yes,14,'10-15,8,'6-9,75.0
+Pace,Clemonts,Male,99,1990-07-28,33.0,30-40,VIC,Media Manager IV,Retail,High Net Worth,No,10,'10-15,7,'6-9,75.0
+Morganica,Bentke,Female,40,1977-01-03,47.0,40-50,VIC,Marketing Assistant,IT,Affluent Customer,Yes,21,'above 20,11,'above 9,75.0
+Dorian,Rustman,Male,78,1974-12-09,49.0,40-50,QLD,Junior Executive,Manufacturing,Mass Customer,No,18,'15-20,7,'6-9,75.0
+Jared,Fendlow,Male,79,1963-08-25,60.0,60-70,QLD,Media Manager II,Financial Services,Mass Customer,No,15,'15-20,7,'6-9,75.0
+Eleonora,Wiszniewski,Female,49,1980-04-23,44.0,40-50,QLD,Financial Advisor,Financial Services,Affluent Customer,No,9,'5-10,2,'bellow 3,75.0
+Bink,Bentje,Male,3,1957-03-23,67.0,60-70,NSW,Payment Adjustment Coordinator,Financial Services,High Net Worth,Yes,19,'15-20,3,'3-6,75.0
+Kissie,Line,Female,2,2000-05-20,24.0,20-30,NSW,Environmental Tech,Manufacturing,Affluent Customer,Yes,7,'5-10,9,'above 9,75.0
+George,Jose,Male,68,1960-12-19,63.0,60-70,QLD,Payment Adjustment Coordinator,Retail,High Net Worth,Yes,20,'above 20,4,'3-6,75.0
+Briana,Trill,Female,5,1944-03-18,80.0,above 70,NSW,Health Coach III,Health,High Net Worth,No,11,'10-15,11,'above 9,74.0
+Lisette,Davers,Female,59,1940-10-26,83.0,above 70,NSW,Developer III,Health,High Net Worth,No,17,'15-20,11,'above 9,74.0
+Dwayne,Doel,Male,80,1978-01-21,46.0,40-50,NSW,Cost Accountant,Financial Services,Affluent Customer,Yes,17,'15-20,11,'above 9,74.0
+Odilia,Quick,Female,65,1938-11-09,85.0,above 70,NSW,General Manager,Manufacturing,Affluent Customer,Yes,11,'10-15,11,'above 9,74.0
+Kippy,Barabisch,Male,11,2000-04-07,24.0,20-30,NSW,Legal Assistant,Manufacturing,Mass Customer,No,4,'bellow 5,11,'above 9,74.0
+Kevina,Ferandez,Female,73,1999-09-21,24.0,20-30,QLD,Assistant Professor,Financial Services,High Net Worth,No,15,'15-20,9,'above 9,74.0
+Dorotea,Fenwick,Female,74,1950-10-12,73.0,above 70,NSW,Nurse,Financial Services,High Net Worth,No,12,'10-15,11,'above 9,74.0
+Byrom,Ramas,Male,23,1993-11-02,30.0,30-40,NSW,Help Desk Technician,Manufacturing,High Net Worth,No,12,'10-15,7,'6-9,73.0
+Hersh,Stubbert,Male,0,2000-06-25,23.0,20-30,QLD,Technical Writer,Manufacturing,Mass Customer,Yes,15,'15-20,8,'6-9,73.0
+Evangelin,Boc,Female,30,2000-05-09,24.0,20-30,VIC,Structural Analysis Engineer,Manufacturing,High Net Worth,Yes,14,'10-15,8,'6-9,73.0
+Sim,Constantinou,Male,91,1992-08-09,31.0,30-40,NSW,Analog Circuit Design manager,Property,Mass Customer,No,5,'5-10,9,'above 9,73.0
+Andrew,Froment,Male,58,1977-07-19,46.0,40-50,VIC,Office Assistant IV,Retail,High Net Worth,No,7,'5-10,2,'bellow 3,73.0
+Rochette,Haddacks,Female,44,1996-05-10,28.0,20-30,VIC,Tax Accountant,Retail,Affluent Customer,Yes,13,'10-15,8,'6-9,73.0
+Iain,Haversham,Male,92,1950-12-26,73.0,above 70,NSW,Sales Representative,Retail,Mass Customer,Yes,13,'10-15,10,'above 9,73.0
+Kearney,Cuddehy,Male,88,1997-05-18,27.0,20-30,QLD,Marketing Assistant,Retail,Mass Customer,No,12,'10-15,6,'6-9,73.0
+Gardiner,Gypps,Male,91,1991-06-01,32.0,30-40,NSW,VP Product Management,Retail,Mass Customer,Yes,13,'10-15,9,'above 9,73.0
+Cami,Eitter,Female,34,1979-01-03,45.0,40-50,VIC,Professor,Manufacturing,High Net Worth,Yes,11,'10-15,9,'above 9,73.0
+Donica,Humby,Female,47,1967-06-01,56.0,50-60,NSW,Senior Cost Accountant,Financial Services,Mass Customer,No,4,'bellow 5,12,'above 9,73.0
+Dorie,Dunleavy,Female,24,1962-05-05,62.0,60-70,VIC,Registered Nurse,Health,Affluent Customer,No,12,'10-15,4,'3-6,72.0
+Jim,Haddrell,Male,55,1955-04-08,69.0,60-70,NSW,Associate Professor,Financial Services,Mass Customer,No,9,'5-10,3,'3-6,72.0
+Benedict,Rosas,Male,73,1955-11-25,68.0,60-70,NSW,Actuary,Financial Services,High Net Worth,Yes,15,'15-20,6,'6-9,72.0
+Gilbert,O'Fallone,Male,29,1994-11-07,29.0,20-30,NSW,Assistant Media Planner,Entertainment,High Net Worth,No,1,'bellow 5,11,'above 9,72.0
+Flin,Yoskowitz,Male,9,1995-12-17,28.0,20-30,NSW,Registered Nurse,Health,Mass Customer,Yes,11,'10-15,7,'6-9,72.0
+Roseanne,Caruth,Female,16,1957-05-25,66.0,60-70,NSW,Programmer Analyst III,Health,Mass Customer,No,7,'5-10,9,'above 9,71.0
+Evonne,Bembridge,Female,9,1969-07-06,54.0,50-60,VIC,Recruiting Manager,Retail,Mass Customer,Yes,14,'10-15,9,'above 9,71.0
+Virginia,De Antoni,Female,17,1964-03-14,60.0,60-70,NSW,Executive Secretary,Telecommunications,High Net Worth,Yes,12,'10-15,10,'above 9,71.0
+Nadiya,Balasini,Female,40,1950-11-05,73.0,above 70,NSW,Sales Associate,Financial Services,Mass Customer,No,15,'15-20,9,'above 9,71.0
+Ermentrude,Heindle,Female,47,1969-08-02,54.0,50-60,NSW,GIS Technical Architect,Argiculture,Mass Customer,No,7,'5-10,10,'above 9,71.0
+Meade,McReedy,Female,94,1968-11-23,55.0,50-60,NSW,Safety Technician IV,Financial Services,Affluent Customer,Yes,9,'5-10,10,'above 9,71.0
+Markus,Pendrey,Male,88,1959-08-01,64.0,60-70,NSW,Clinical Specialist,Health,Affluent Customer,Yes,12,'10-15,10,'above 9,71.0
+Karol,Salthouse,Female,53,1968-07-29,55.0,50-60,NSW,Research Assistant III,Financial Services,Mass Customer,Yes,18,'15-20,8,'6-9,71.0
+Rikki,Chaffey,Male,69,1945-06-11,78.0,above 70,QLD,Chemical Engineer,Manufacturing,Mass Customer,No,20,'above 20,1,'bellow 3,70.0
+Brien,Heaton,Male,70,1951-11-28,72.0,above 70,NSW,Clinical Specialist,Health,Mass Customer,Yes,12,'10-15,2,'bellow 3,70.0
+Hilliard,Dullard,Male,65,1954-07-18,69.0,60-70,NSW,Civil Engineer,Manufacturing,Mass Customer,No,17,'15-20,8,'6-9,70.0
+Barth,Weare,Male,18,1946-08-22,77.0,above 70,NSW,Clinical Specialist,Health,Mass Customer,Yes,8,'5-10,5,'3-6,70.0
+Alex,Patshull,Female,37,1966-01-02,58.0,50-60,QLD,Senior Quality Engineer,Retail,Mass Customer,Yes,13,'10-15,5,'3-6,70.0
+Valerie,Pickover,Female,34,1965-09-08,58.0,50-60,NSW,Editor,Financial Services,Mass Customer,No,9,'5-10,8,'6-9,70.0
+Allyson,Petchell,Female,16,1970-03-19,54.0,50-60,NSW,Human Resources Manager,Telecommunications,High Net Worth,No,10,'10-15,8,'6-9,70.0
+Franklin,Wohler,Male,55,1938-10-16,85.0,above 70,NSW,Clinical Specialist,Health,Mass Customer,Yes,7,'5-10,8,'6-9,70.0
+Haskell,Moxted,Male,81,1943-08-27,80.0,above 70,NSW,Civil Engineer,Manufacturing,Mass Customer,No,7,'5-10,9,'above 9,70.0
+Karoly,Burgoine,Male,57,1947-04-06,77.0,above 70,VIC,Account Representative IV,Health,High Net Worth,Yes,21,'above 20,2,'bellow 3,69.0
+Chickie,Brister,Male,86,1957-07-12,66.0,60-70,QLD,General Manager,Manufacturing,Mass Customer,Yes,14,'10-15,6,'6-9,69.0
+Ivy,Farr,Female,56,1973-07-03,50.0,50-60,NSW,Office Assistant IV,IT,High Net Worth,No,19,'15-20,11,'above 9,69.0
+Tina,Dunstan,Female,13,1939-03-06,85.0,above 70,NSW,Account Representative IV,Retail,Affluent Customer,No,13,'10-15,7,'6-9,69.0
+Giffie,Offill,Male,51,1993-03-02,31.0,30-40,QLD,Structural Engineer,Telecommunications,Affluent Customer,No,5,'5-10,3,'3-6,69.0
+Olive,Mozzi,Female,87,1955-07-06,68.0,60-70,NSW,Account Representative IV,Retail,Affluent Customer,Yes,20,'above 20,9,'above 9,69.0
+Garwin,Nurden,Male,54,1958-04-19,66.0,60-70,VIC,Programmer I,Property,High Net Worth,Yes,5,'5-10,11,'above 9,69.0
+Levin,Coxen,Male,13,1955-10-22,68.0,60-70,NSW,Accountant I,Property,Mass Customer,No,20,'above 20,8,'6-9,69.0
+Gerri,Schimann,Female,81,1969-11-17,54.0,50-60,NSW,Desktop Support Technician,Property,Mass Customer,Yes,18,'15-20,8,'6-9,68.0
+Inglebert,Butland,Male,71,1966-01-30,58.0,50-60,NSW,Actuary,Financial Services,Mass Customer,Yes,7,'5-10,9,'above 9,68.0
+Sammy,Borsi,Female,99,1972-04-27,52.0,50-60,NSW,Accountant III,Financial Services,Mass Customer,No,5,'5-10,7,'6-9,68.0
+Beverlee,Querree,Female,42,1991-04-21,33.0,30-40,NSW,Marketing Manager,Financial Services,High Net Worth,Yes,12,'10-15,12,'above 9,68.0
+Antonietta,Egle,Female,82,1973-09-25,50.0,50-60,VIC,Actuary,Financial Services,Mass Customer,No,7,'5-10,7,'6-9,68.0
+Wilfrid,Gertray,Male,1,1942-08-23,81.0,above 70,NSW,Accounting Assistant I,Financial Services,Mass Customer,No,16,'15-20,8,'6-9,68.0
+Lea,Ilyinski,Female,75,1997-09-25,26.0,20-30,NSW,Structural Analysis Engineer,Financial Services,High Net Worth,No,12,'10-15,12,'above 9,68.0
+Adriena,Giffin,Female,27,1957-03-17,67.0,60-70,NSW,Analog Circuit Design manager,Argiculture,Affluent Customer,Yes,5,'5-10,9,'above 9,68.0
+Conroy,Rappaport,Male,39,1965-01-08,59.0,50-60,NSW,Assistant Manager,Health,High Net Worth,No,9,'5-10,9,'above 9,68.0
+Feodor,Englishby,Male,54,1961-08-14,62.0,60-70,VIC,Account Coordinator,Health,Mass Customer,No,11,'10-15,5,'3-6,68.0
+Craggie,Dering,Male,47,1952-10-05,71.0,above 70,NSW,Actuary,Financial Services,Mass Customer,No,7,'5-10,10,'above 9,68.0
+Farlie,Brookz,Male,62,1963-07-31,60.0,60-70,NSW,Administrative Assistant I,Health,Mass Customer,Yes,6,'5-10,12,'above 9,67.0
+Dulce,Bradwell,Female,61,1957-07-03,66.0,60-70,QLD,Research Associate,Manufacturing,Mass Customer,No,20,'above 20,9,'above 9,67.0
+Skippie,Yearsley,Male,6,1956-09-04,67.0,60-70,QLD,Compensation Analyst,Financial Services,Mass Customer,No,9,'5-10,5,'3-6,67.0
+Wrennie,Dwelly,Female,23,1940-03-11,84.0,above 70,VIC,Operator,Manufacturing,Mass Customer,No,18,'15-20,9,'above 9,67.0
+Maurizia,Ritmeyer,Female,95,1980-04-09,44.0,40-50,NSW,Teacher,Entertainment,Mass Customer,Yes,3,'bellow 5,6,'6-9,67.0
+Halette,Borsi,Female,60,1961-12-10,62.0,60-70,NSW,Research Nurse,Health,Affluent Customer,Yes,16,'15-20,9,'above 9,67.0
+Lucine,Stutt,Female,64,1979-01-28,45.0,40-50,QLD,Account Representative III,Manufacturing,Affluent Customer,Yes,5,'5-10,1,'bellow 3,67.0
+Nil,Shirer,Male,64,1997-09-27,26.0,20-30,VIC,Librarian,Entertainment,Mass Customer,Yes,7,'5-10,8,'6-9,67.0
+Jackie,Pays,Male,21,1955-11-09,68.0,60-70,NSW,Developer I,Health,Mass Customer,No,9,'5-10,12,'above 9,67.0
+Weidar,Etheridge,Male,38,1959-07-13,64.0,60-70,NSW,Compensation Analyst,Financial Services,Mass Customer,Yes,6,'5-10,4,'3-6,67.0
+Alick,Baise,Male,62,1998-08-16,25.0,20-30,NSW,Pharmacist,Health,Mass Customer,Yes,1,'bellow 5,8,'6-9,66.0
+Maurine,Clee,Female,45,1980-09-13,43.0,40-50,NSW,Automation Specialist II,Property,High Net Worth,Yes,5,'5-10,10,'above 9,66.0
+Demetria,Bausor,Female,73,1961-12-22,62.0,60-70,NSW,Assistant Media Planner,Entertainment,Mass Customer,Yes,9,'5-10,12,'above 9,65.0
+Claude,Bowstead,Female,37,1997-11-29,26.0,20-30,NSW,Accounting Assistant III,Manufacturing,Mass Customer,No,7,'5-10,12,'above 9,64.0
+Joane,Caldes,Female,84,1978-03-17,46.0,40-50,NSW,Senior Cost Accountant,Financial Services,High Net Worth,Yes,13,'10-15,7,'6-9,64.0
+Shanon,Rolfe,Female,63,1941-08-19,82.0,above 70,NSW,Sales Representative,Retail,High Net Worth,No,8,'5-10,7,'6-9,64.0
+Elmira,Vasilyev,Female,33,1951-10-14,72.0,above 70,NSW,Senior Quality Engineer,Manufacturing,High Net Worth,No,12,'10-15,9,'above 9,64.0
+Tamar,Windmill,Female,92,1939-08-28,84.0,above 70,NSW,Senior Editor,Manufacturing,Affluent Customer,No,10,'10-15,10,'above 9,64.0
+Rafi,Brettelle,Male,89,1956-08-12,67.0,60-70,NSW,Operator,Health,High Net Worth,No,6,'5-10,10,'above 9,64.0
+Otha,Langworthy,Female,91,1967-01-20,57.0,50-60,VIC,Senior Financial Analyst,Financial Services,Mass Customer,Yes,13,'10-15,10,'above 9,64.0
+Lezlie,Clemits,Female,2,1973-05-30,50.0,50-60,NSW,Senior Cost Accountant,Financial Services,Mass Customer,Yes,15,'15-20,10,'above 9,64.0
+Jenelle,Fearnill,Female,12,1958-01-03,66.0,60-70,NSW,Social Worker,Health,High Net Worth,No,19,'15-20,9,'above 9,64.0
+Agnola,Batterson,Female,86,1980-01-03,44.0,40-50,QLD,Physical Therapy Assistant,Financial Services,Mass Customer,No,7,'5-10,3,'3-6,64.0
+Roberta,Goodale,Female,9,1947-02-28,77.0,above 70,QLD,Information Systems Manager,Property,Mass Customer,Yes,22,'above 20,7,'6-9,63.0
+Olia,O' Mullan,Female,77,1973-03-24,51.0,50-60,NSW,Account Executive,Health,Mass Customer,No,8,'5-10,7,'6-9,63.0
+Solomon,Bruck,Male,29,1957-11-15,66.0,60-70,QLD,Junior Executive,Health,Mass Customer,No,12,'10-15,8,'6-9,63.0
+Sloan,Pudney,Male,83,1964-11-10,59.0,50-60,QLD,Junior Executive,Financial Services,Affluent Customer,No,16,'15-20,9,'above 9,63.0
+Bobby,Summersby,Male,90,1943-10-27,80.0,above 70,VIC,Sales Associate,Financial Services,Affluent Customer,No,7,'5-10,2,'bellow 3,63.0
+Wilburt,Padden,Male,22,1994-09-30,29.0,20-30,NSW,Engineer I,Manufacturing,Mass Customer,No,3,'bellow 5,5,'3-6,63.0
+Ewell,Paulusch,Male,31,1998-01-15,26.0,20-30,QLD,Engineer I,Manufacturing,Mass Customer,Yes,8,'5-10,7,'6-9,63.0
+Phyllis,Wibberley,Female,7,1971-01-10,53.0,50-60,NSW,Web Designer IV,Retail,Affluent Customer,No,11,'10-15,12,'above 9,63.0
+Sid,Carlone,Male,24,1971-08-18,52.0,50-60,QLD,Structural Engineer,Health,Affluent Customer,No,16,'15-20,2,'bellow 3,63.0
+Marilin,Frome,Female,58,1975-12-22,48.0,40-50,NSW,Account Executive,IT,Mass Customer,Yes,17,'15-20,9,'above 9,63.0
+Yorgos,Dewhurst,Male,6,1950-09-09,73.0,above 70,QLD,Software Consultant,Argiculture,Affluent Customer,No,16,'15-20,1,'bellow 3,63.0
+Juliana,Mitchenson,Female,55,1989-01-05,35.0,30-40,QLD,Environmental Tech,Manufacturing,Mass Customer,Yes,8,'5-10,4,'3-6,63.0
+Palmer,Heaven,Male,82,1995-05-18,29.0,20-30,VIC,Staff Scientist,Financial Services,Affluent Customer,Yes,9,'5-10,6,'6-9,62.0
+Roch,Symson,Female,96,1978-05-13,46.0,40-50,VIC,Office Assistant I,Manufacturing,High Net Worth,No,18,'15-20,9,'above 9,62.0
+Shay,Briand,Male,57,1956-10-05,67.0,60-70,VIC,Project Manager,IT,Mass Customer,Yes,9,'5-10,1,'bellow 3,62.0
+Jamison,Cashin,Male,70,1970-05-19,54.0,50-60,NSW,VP Product Management,Health,Mass Customer,Yes,5,'5-10,8,'6-9,62.0
+Duff,Karlowicz,Male,50,1972-04-28,52.0,50-60,NSW,Speech Pathologist,Manufacturing,Mass Customer,Yes,5,'5-10,10,'above 9,62.0
+Sherrie,Godleman,Female,37,1978-04-02,46.0,40-50,VIC,Associate Professor,Manufacturing,Mass Customer,No,19,'15-20,2,'bellow 3,62.0
+Cissiee,Pollington,Female,43,1941-07-21,82.0,above 70,NSW,Associate Professor,Property,Mass Customer,Yes,7,'5-10,9,'above 9,61.0
+Nicole,Ruckhard,Female,93,1969-10-09,54.0,50-60,QLD,Human Resources Manager,Health,Affluent Customer,Yes,17,'15-20,3,'3-6,61.0
+Cicily,Hast,Female,63,1971-04-26,53.0,50-60,NSW,Food Chemist,Health,Affluent Customer,Yes,8,'5-10,3,'3-6,61.0
+Darwin,Bumpas,Male,24,1978-12-27,45.0,40-50,VIC,Junior Executive,Health,Affluent Customer,Yes,18,'15-20,7,'6-9,61.0
+Jamie,Jiruca,Female,21,1963-06-16,60.0,60-70,NSW,Recruiting Manager,Argiculture,Mass Customer,No,18,'15-20,9,'above 9,60.0
+Nev,Prosh,Male,29,1950-05-08,74.0,above 70,NSW,Environmental Tech,Health,Affluent Customer,Yes,17,'15-20,8,'6-9,60.0
+Jammie,Seldner,Female,42,1975-02-25,49.0,40-50,NSW,Human Resources Manager,Health,Mass Customer,Yes,15,'15-20,10,'above 9,60.0
+Consalve,Ballay,Male,41,1959-09-18,64.0,60-70,NSW,Web Developer I,IT,Mass Customer,Yes,7,'5-10,8,'6-9,60.0
+Lacy,Drance,Female,27,1978-02-05,46.0,40-50,NSW,Graphic Designer,Manufacturing,Affluent Customer,Yes,14,'10-15,8,'6-9,60.0
+Raff,Waycott,Male,70,1951-12-16,72.0,above 70,VIC,Engineer IV,Manufacturing,Affluent Customer,Yes,14,'10-15,7,'6-9,60.0
+Sibylla,Kibble,Female,73,1962-08-05,61.0,60-70,NSW,Pharmacist,Health,High Net Worth,No,12,'10-15,9,'above 9,60.0
+Renate,Whyte,Female,60,1963-12-08,60.0,60-70,NSW,Registered Nurse,Health,High Net Worth,Yes,15,'15-20,7,'6-9,60.0
+Sigismund,Sedger,Male,9,1999-11-29,24.0,20-30,NSW,Accountant II,Manufacturing,Affluent Customer,No,7,'5-10,10,'above 9,59.0
+Corinna,Beretta,Female,24,1996-02-29,28.0,20-30,VIC,Programmer III,Health,High Net Worth,No,12,'10-15,7,'6-9,59.0
+Cherye,Stanfield,Female,0,1981-07-05,42.0,40-50,NSW,Environmental Tech,Manufacturing,Affluent Customer,No,13,'10-15,9,'above 9,59.0
+Dorothy,Barnardo,Female,58,1983-02-01,41.0,40-50,NSW,Human Resources Manager,Retail,High Net Worth,No,12,'10-15,8,'6-9,59.0
+Kermit,Lebond,Male,36,1980-02-01,44.0,40-50,QLD,Financial Advisor,Financial Services,Mass Customer,No,4,'bellow 5,8,'6-9,59.0
+Marysa,Rouchy,Female,8,1999-02-15,25.0,20-30,NSW,Assistant Media Planner,Entertainment,Affluent Customer,No,5,'5-10,9,'above 9,59.0
+Fancie,Woofendell,Female,68,1966-09-17,57.0,50-60,QLD,Research Nurse,Health,Mass Customer,Yes,6,'5-10,7,'6-9,58.0
+Morgen,Newport,Female,5,1960-08-31,63.0,60-70,VIC,Project Manager,Manufacturing,Mass Customer,No,6,'5-10,4,'3-6,58.0
+Worthington,Cohane,Male,60,1991-01-23,33.0,30-40,NSW,Chief Design Engineer,Entertainment,High Net Worth,No,2,'bellow 5,12,'above 9,58.0
+Thorvald,Duckerin,Male,58,1995-10-20,28.0,20-30,VIC,Electrical Engineer,Manufacturing,Affluent Customer,Yes,1,'bellow 5,8,'6-9,57.0
+Dominick,Asher,Male,50,1962-10-06,61.0,60-70,VIC,Research Associate,Health,Affluent Customer,Yes,5,'5-10,9,'above 9,57.0
+Abigale,Sives,Female,48,1963-12-13,60.0,60-70,QLD,VP Marketing,Health,Affluent Customer,Yes,14,'10-15,4,'3-6,57.0
+Andriana,Gosnoll,Female,53,1964-05-19,60.0,60-70,NSW,Chief Design Engineer,Manufacturing,Mass Customer,No,8,'5-10,10,'above 9,57.0
+Paulina,Iannuzzelli,Female,57,1956-03-08,68.0,60-70,NSW,Automation Specialist I,Manufacturing,Mass Customer,No,19,'15-20,11,'above 9,57.0
+Ferdy,Hornung,Male,57,1974-05-14,50.0,50-60,QLD,Analog Circuit Design manager,Entertainment,High Net Worth,No,18,'15-20,3,'3-6,56.0
+Kort,Disley,Male,66,1979-02-05,45.0,40-50,NSW,Technical Writer,Health,Mass Customer,Yes,7,'5-10,9,'above 9,56.0
+Carl,Troyes,Male,4,1973-03-12,51.0,50-60,VIC,Associate Professor,Property,Mass Customer,No,7,'5-10,10,'above 9,56.0
+Menard,Venmore,Male,97,1978-04-04,46.0,40-50,NSW,Assistant Professor,Retail,High Net Worth,No,8,'5-10,10,'above 9,56.0
+Morton,Petkens,Male,50,1990-11-13,33.0,30-40,VIC,Account Coordinator,Manufacturing,High Net Worth,Yes,10,'10-15,1,'bellow 3,56.0
+Gothart,Artus,Male,52,1978-05-31,45.0,40-50,NSW,Health Coach IV,Health,Mass Customer,Yes,14,'10-15,10,'above 9,56.0
+Latrena,Yetts,Female,11,1999-06-18,24.0,20-30,NSW,Civil Engineer,Manufacturing,High Net Worth,Yes,15,'15-20,3,'3-6,56.0
+Deborah,Petrovsky,Female,53,1943-07-14,80.0,above 70,NSW,Teacher,Property,Mass Customer,No,16,'15-20,7,'6-9,56.0
+Roman,Eastwood,Male,57,1969-09-21,54.0,50-60,VIC,Associate Professor,Manufacturing,Affluent Customer,Yes,16,'15-20,4,'3-6,56.0
+Don,Spratling,Male,82,1969-01-05,55.0,50-60,NSW,Associate Professor,Property,Affluent Customer,Yes,7,'5-10,10,'above 9,56.0
+Ellie,Toope,Female,29,1973-08-11,50.0,50-60,NSW,Staff Accountant III,Property,High Net Worth,Yes,4,'bellow 5,11,'above 9,56.0
+Chaim,Kingdon,Male,63,1996-01-21,28.0,20-30,NSW,Compensation Analyst,Financial Services,Affluent Customer,Yes,15,'15-20,9,'above 9,56.0
+Sherilyn,Canero,Female,11,1996-08-03,27.0,20-30,NSW,Dental Hygienist,Health,High Net Worth,Yes,13,'10-15,7,'6-9,56.0
+Randall,Mason,Male,95,1974-07-28,49.0,40-50,NSW,Product Engineer,Health,Mass Customer,Yes,12,'10-15,11,'above 9,56.0
+Shelli,Bartholomaus,Female,88,1963-05-11,61.0,60-70,VIC,Associate Professor,Health,Mass Customer,Yes,6,'5-10,7,'6-9,56.0
+Claudine,Barstowk,Female,71,1966-07-20,57.0,50-60,QLD,Nurse,Property,High Net Worth,Yes,5,'5-10,11,'above 9,56.0
+Stephani,Sidsaff,Female,32,1973-09-29,50.0,50-60,NSW,Senior Quality Engineer,Financial Services,Mass Customer,Yes,6,'5-10,11,'above 9,56.0
+Shawna,Hinrichsen,Female,60,1969-08-27,54.0,50-60,NSW,Assistant Professor,Manufacturing,Affluent Customer,Yes,9,'5-10,2,'bellow 3,56.0
+Claudell,Rounsefell,Male,67,1993-11-27,30.0,30-40,QLD,VP Sales,Financial Services,Affluent Customer,No,8,'5-10,5,'3-6,55.0
+Reinhard,Oscroft,Male,23,1950-03-18,74.0,above 70,VIC,Pharmacist,Health,High Net Worth,No,18,'15-20,1,'bellow 3,55.0
+Katy,Crooke,Female,0,1977-06-30,46.0,40-50,NSW,Food Chemist,Health,Mass Customer,No,13,'10-15,12,'above 9,55.0
+Hussein,Tapenden,Male,19,1953-10-19,70.0,above 70,NSW,Pharmacist,Health,Affluent Customer,Yes,12,'10-15,8,'6-9,55.0
+Fabio,Commuzzo,Male,5,1961-10-02,62.0,60-70,VIC,Software Test Engineer II,Manufacturing,Mass Customer,No,18,'15-20,8,'6-9,54.0
+Egor,Mariette,Male,42,1980-11-26,43.0,40-50,VIC,Financial Advisor,Financial Services,Affluent Customer,No,3,'bellow 5,7,'6-9,54.0
+Tristam,Larose,Male,70,1985-01-29,39.0,30-40,NSW,VP Accounting,Financial Services,Mass Customer,No,17,'15-20,11,'above 9,54.0
+Dolley,Starmont,Female,53,1977-11-08,46.0,40-50,QLD,Geologist IV,Manufacturing,Affluent Customer,No,18,'15-20,6,'6-9,54.0
+Darryl,Hovee,Female,2,1944-04-28,80.0,above 70,NSW,Professor,Financial Services,Mass Customer,Yes,19,'15-20,12,'above 9,54.0
+Porter,Buckenhill,Male,46,1954-06-14,69.0,60-70,QLD,Help Desk Operator,Manufacturing,High Net Worth,Yes,9,'5-10,7,'6-9,53.0
+Raye,Roo,Female,64,1976-03-07,48.0,40-50,VIC,Database Administrator I,Financial Services,Mass Customer,Yes,16,'15-20,9,'above 9,53.0
+Evered,Gludor,Male,3,1951-04-30,73.0,above 70,NSW,Electrical Engineer,Manufacturing,High Net Worth,Yes,15,'15-20,8,'6-9,53.0
+Aurie,Rhead,Female,78,1962-07-28,61.0,60-70,NSW,Geological Engineer,Manufacturing,Affluent Customer,Yes,5,'5-10,2,'bellow 3,53.0
+Artemis,Swanson,Male,77,1977-02-12,47.0,40-50,VIC,Web Designer II,Argiculture,Mass Customer,Yes,13,'10-15,5,'3-6,53.0
+Guss,Karim,Male,95,1968-11-24,55.0,50-60,NSW,Senior Sales Associate,Manufacturing,Mass Customer,No,7,'5-10,11,'above 9,53.0
+Ansell,Tolhurst,Male,77,1949-08-11,74.0,above 70,NSW,Chemical Engineer,Manufacturing,Affluent Customer,No,22,'above 20,10,'above 9,52.0
+Jillane,Simion,Female,8,1974-07-03,49.0,40-50,QLD,VP Marketing,Manufacturing,High Net Worth,No,7,'5-10,3,'3-6,52.0
+Tannie,Gambrell,Male,92,1967-05-25,56.0,50-60,QLD,Financial Analyst,Financial Services,Affluent Customer,No,4,'bellow 5,4,'3-6,52.0
+Arty,Fontelles,Male,50,1994-10-21,29.0,20-30,VIC,Help Desk Technician,IT,High Net Worth,No,4,'bellow 5,4,'3-6,52.0
+Marcelia,Monkleigh,Female,61,1993-08-22,30.0,30-40,QLD,Associate Professor,Manufacturing,Mass Customer,Yes,4,'bellow 5,6,'6-9,51.0
+Rockwell,Matson,Male,94,1995-01-01,29.0,20-30,QLD,Programmer Analyst I,Retail,High Net Worth,No,3,'bellow 5,6,'6-9,51.0
+Sybilla,MacCart,Female,88,1987-01-15,37.0,30-40,NSW,Paralegal,Financial Services,Mass Customer,Yes,7,'5-10,7,'6-9,51.0
+Inglis,Pickaver,Male,33,1994-06-25,29.0,20-30,NSW,Product Engineer,Telecommunications,Affluent Customer,No,1,'bellow 5,8,'6-9,51.0
+Bryon,Goundry,Male,79,1951-02-05,73.0,above 70,QLD,Marketing Manager,Manufacturing,Mass Customer,No,21,'above 20,5,'3-6,51.0
+Lark,Gonet,Female,89,1972-01-17,52.0,50-60,NSW,Database Administrator II,Health,High Net Worth,No,8,'5-10,8,'6-9,51.0
+Ceciley,Harg,Female,50,1990-10-19,33.0,30-40,QLD,Nurse Practicioner,Retail,Mass Customer,Yes,4,'bellow 5,7,'6-9,51.0
+Daisy,Pollen,Female,97,1993-08-09,30.0,30-40,VIC,Cost Accountant,Financial Services,Mass Customer,No,7,'5-10,9,'above 9,51.0
+Reynold,Elman,Male,19,1940-01-18,84.0,above 70,NSW,Marketing Manager,Manufacturing,Mass Customer,No,9,'5-10,2,'bellow 3,51.0
+Flossy,Concannon,Female,64,1980-10-20,43.0,40-50,VIC,Staff Accountant IV,Financial Services,Affluent Customer,No,8,'5-10,2,'bellow 3,51.0
+Claudetta,Ricciardiello,Female,61,1974-04-30,50.0,50-60,VIC,Internal Auditor,Financial Services,Mass Customer,Yes,21,'above 20,8,'6-9,51.0
+Briant,Ladley,Male,75,1979-12-17,44.0,40-50,NSW,Recruiter,Argiculture,Mass Customer,No,12,'10-15,8,'6-9,50.0
+Kelcie,Kingaby,Female,54,2000-03-24,24.0,20-30,QLD,Systems Administrator II,IT,Mass Customer,Yes,6,'5-10,4,'3-6,50.0
+Toma,Woolforde,Female,67,1992-03-09,32.0,30-40,NSW,Cost Accountant,Financial Services,Mass Customer,Yes,5,'5-10,12,'above 9,50.0
+Ogdan,Blenkinship,Male,65,1951-01-18,73.0,above 70,VIC,Occupational Therapist,Health,Mass Customer,Yes,21,'above 20,5,'3-6,50.0
